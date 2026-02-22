@@ -1,8 +1,8 @@
 # 📄 Technical Proposal: Real Estate Market Analysis in Egypt
 
-**Prepared for:** DEPI
-**Prepared by:** Mostafa Hamada 
-**Date:** 30/2/2026 
+**Prepared for:** DEPI |
+**Prepared by:** Mostafa Hamada |
+**Date:** 30/2/2026 |
 **Project Duration:** 4 Weeks  
 
 ---
