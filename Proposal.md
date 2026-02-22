@@ -105,14 +105,7 @@ To successfully complete this project, I will require:
 
 ## 7. Terms and Conditions
 
-| Term | Details |
-| :--- | :--- |
-| **Price** | Fixed price: **$700 USD** (or 21,000 EGP) |
-| **Payment Schedule** | 30% upfront to start, 40% at mid-point (after EDA), 30% on final delivery |
-| **Revisions** | 2 rounds of revisions included |
-| **Timeline** | 4 weeks from start date |
-| **Support** | 1 month free bug fixes after delivery |
-| **Communication** | Weekly updates via email/WhatsApp + feedback calls as needed |
+A revision policy outlining the number of included revisions will be provided in a separate document for your review. The project will be delivered within the agreed timeline of 4 weeks from the start date. Payment is structured as 30% upfront to begin the project, 40% upon completion of the mid-point milestone (after EDA), and the remaining 30% upon final delivery. The price is fixed at $700 USD (or 21,000 EGP) with no hidden costs. Support includes one month of free bug fixes after delivery, and communication will include weekly updates via email or WhatsApp, along with feedback calls as needed.
 
 ---
 
@@ -127,4 +120,4 @@ I am confident that my experience in data science, machine learning, and full-st
 **Mostafa Hamada**  
 📧 MostafaHamada@gmail.com  
 📞 +20 115 830 5670  
-🔗 [LinkedIn](https://linkedin.com/in/MostafaHamada_Lin) | [GitHub](https://github.com/7ksha)
+🔗 [LinkedIn](https://www.linkedin.com/in/mostafa-hamada-hsn/) | [GitHub](https://github.com/7ksha)
