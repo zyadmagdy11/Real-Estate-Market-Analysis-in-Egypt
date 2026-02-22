@@ -88,5 +88,4 @@ This project helps:
 ---
 
 ## 📌 Author
-Your Name  
-Data Science Track – DEPI Program  
+Mostafa
