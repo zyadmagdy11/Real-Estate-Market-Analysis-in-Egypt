@@ -118,6 +118,6 @@ I am confident that my experience in data science, machine learning, and full-st
 **Best regards,**
 
 **Mostafa Hamada**  
-📧 MostafaHamada@gmail.com  
+📧 mostafa.hamada.hsn@gmail.com  
 📞 +20 115 830 5670  
 🔗 [LinkedIn](https://www.linkedin.com/in/mostafa-hamada-hsn/) | [GitHub](https://github.com/7ksha)
